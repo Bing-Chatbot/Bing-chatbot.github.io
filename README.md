@@ -26,6 +26,9 @@ Bing Chat is different from the traditional search engine experience since it pr
 * You can end the conversation by typing "bye" or "leave" or by closing the chat window.
 
 
-* https://sites.google.com/view/bing-chat-ai/
-* https://sites.google.com/view/bing-chatbot/
-* https://sites.google.com/view/what-can-bing-chat-do/
+
+* [bing ai chat](https://sites.google.com/view/bing-chat-ai/)
+* [bing chatbot](https://sites.google.com/view/bing-chatbot/)
+* [what can bing chat do](https://sites.google.com/view/what-can-bing-chat-do/)
+* [bing ai](https://sites.google.com/view/aibing/)
+* [ai bing](https://sites.google.com/view/ai-bing/)
