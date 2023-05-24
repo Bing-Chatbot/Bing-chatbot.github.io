@@ -1,5 +1,9 @@
 # What is Bing Chat? Learn How to Use Bing Chat
 
+
+[![Bing chatbot](bing-chatbot.png)](https://computersolve.com/what-is-bing-chatbot-feature-and-use/)
+
+
 Bing Chat is an AI chatbot experience from Microsoft based on the popular ChatGPT (version 4) Large Language Model (LLM) from OpenAI to offer similar responses to how humans will answer questions.
 
 Bing Chat is different from the traditional search engine experience since it provides complete answers to questions instead of a bunch of links on a result page that may help you find the answer you are seeking. 
@@ -7,7 +11,7 @@ Bing Chat is different from the traditional search engine experience since it pr
 ## How to use Bing chatbot?
 
 
-**Here are some steps to get started with Bing Chatbot:
+**Here are some steps to get started with Bing Chatbot:**
 
 * Visit www.bing.com and sign in with your Microsoft account.
 
@@ -26,6 +30,7 @@ Bing Chat is different from the traditional search engine experience since it pr
 * You can end the conversation by typing "bye" or "leave" or by closing the chat window.
 
 
+## Read More
 
 * [bing ai chat](https://sites.google.com/view/bing-chat-ai/)
 * [bing chatbot](https://sites.google.com/view/bing-chatbot/)
